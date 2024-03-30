@@ -18,7 +18,7 @@ export default function Home() {
         <Hero />
         <Problem />
         <FeaturesAccordion />
-        <Pricing />
+        {/* <Pricing /> */}
         <FAQ />
         <CTA />
       </main>
