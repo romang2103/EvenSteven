@@ -1,5 +1,6 @@
 import Image from "next/image";
 import config from "@/config";
+import ButtonLead from "@/components/ButtonLead";
 
 const CTA = () => {
   return (
